@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @LukeCampbell5853
-- 👀 I’m interested in programming mostly Python, with a bit of HTML and CSS as well.
-- 🌱 I’m currently learning more Python.
-- 💞️ I’m looking to collaborate on nothing right now, but always lookking for new projects!
-- 📫 I can be reached usually by email.
-
-<!---
-LukeCampbell5853/LukeCampbell5853 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello,I am @LukeCampbell5853. I user predominantly Python, HTML, CSS, and JavaScript, however I tinker in other languages when convinient (and am learning Java as well). I have a fairly busy schedule and so am unable to spend heaps of time programming, unless I get addicted to an exciting project :), but if you have any questions I'm available at my email (LukeCampbell5853@gmail.com).
