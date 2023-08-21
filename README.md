@@ -4,13 +4,8 @@ Currently in my final year of High School I am an aspiring Engineer and Science 
 
 Experience list
 
-[![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://shields.io/) [![General badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://shields.io/)
-
+Python C
 Flask Matplotlib
-
-[![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://shields.io/) CSS JS MD
-
+HTML CSS JS MD
 MicroPython ArduinoC
-- Illustrator LightBurn
-
-[![General badge]()](https://shields.io/)
+Illustrator LightBurn
