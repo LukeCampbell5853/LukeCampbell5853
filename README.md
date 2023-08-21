@@ -5,7 +5,11 @@ Currently in my final year of High School I am an aspiring Engineer and Science 
 Experience list
 
 Python C
+
 Flask Matplotlib
+
 HTML CSS JS MD
+
 MicroPython ArduinoC
+
 Illustrator LightBurn
