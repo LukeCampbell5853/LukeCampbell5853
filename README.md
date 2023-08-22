@@ -1,6 +1,10 @@
 # Let's build something.
 
-Hi, my name is Luke. I am an asipiring Engineer who is interested in all things STEM. From programming to chemistry, and from physics to electronics - I love it all. I am a proficient Python programmer and web developer, and have worked on a wide variety of projects in those fields. When I'm not programming or continuing my study of Engineering and Science I love building robots and other electronic devices. If you have any questions about my past projects or are looking to collaborate on something new and exciting head over to the contact page and let me know!
+Hi, my name is Luke. I am an asipiring Engineer who is interested in all things STEM. From programming to chemistry, and from physics to electronics - I love it all.
+
+I am a proficient Python programmer and web developer, and have worked on a wide variety of projects in those fields. When I'm not programming or continuing my study of Engineering and Science I love building robots and other electronic devices. If you have any questions about my past projects or are looking to collaborate on something new and exciting head over to the contact page and let me know!
+
+If you want to check out some of my work have a look at [NavCS](https://navcs.pythonanywhere.com/) or [PyGraphica](https://pypi.org/project/PyGraphics/)<!--, or head over to my website for more-->.
 
 ### Experience stack
 
