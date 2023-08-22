@@ -1,6 +1,6 @@
 # Let's build something.
 
-Currently in my final year of High School I am an aspiring Engineer and Science student. I love all things STEM from programming to chemistry and am always working on my next project. I am the creator and cofounder of [NavCS](https://navcs.pythonanywhere.com) and the creator of [PyGraphica](https://pypi.org/project/PyGraphica).
+Hi, my name is Luke. I am an asipiring Engineer who is interested in all things STEM. From programming to chemistry, and from physics to electronics - I love it all. I am a proficient Python programmer and web developer, and have worked on a wide variety of projects in those fields. When I'm not programming or continuing my study of Engineering and Science I love building robots and other electronic devices. If you have any questions about my past projects or are looking to collaborate on something new and exciting head over to the contact page and let me know!
 
 ### Experience stack
 
