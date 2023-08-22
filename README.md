@@ -2,7 +2,7 @@
 
 Currently in my final year of High School I am an aspiring Engineer and Science student. I love all things STEM from programming to chemistry and am always working on my next project. I am the creator and cofounder of [NavCS](https://navcs.pythonanywhere.com) and the creator of [PyGraphica](https://pypi.org/project/PyGraphica).
 
-Experience stack
+### Experience stack
 
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-aaaaaa?style=for-the-badge&logo=C&logoColor=white)
 
