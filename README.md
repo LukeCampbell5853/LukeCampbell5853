@@ -8,7 +8,7 @@ If you want to check out some of my work have a look at [NavCS](https://navcs.py
 
 ### Experience stack
 
-![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-aaaaaa?style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-aaaaaa?style=for-the-badge&logo=C&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-f0db4f?style=for-the-badge&logo=javascript&logoColor=black) ![MD](https://img.shields.io/badge/MD-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-787878?style=for-the-badge&logo=flask&logoColor=white)
 
