@@ -2,7 +2,7 @@
 
 Hi, my name is Luke. I am an asipiring Engineer who is interested in all things STEM. From programming to chemistry, and from physics to electronics - I love it all.
 
-I am a proficient Python programmer and web developer, and have worked on a wide variety of projects in those fields. When I'm not programming or continuing my study of Engineering and Science I love building robots and other electronic devices. If you have any questions about my past projects or are looking to collaborate on something new and exciting you can contact me at lukecampbell.contact@gmail.com
+I am a proficient Python programmer and web developer, and have worked on a wide variety of projects in those fields. When I'm not programming or continuing my study of Engineering and Science I love building robots and other electronic devices. If you have any questions about my past projects or are looking to collaborate on something new and exciting you can contact me at lukecampbell.contact@gmail.com.
 
 If you want to see some of my work check out my [website](https://lukecampbell5853.github.io).
 ### Experience stack
